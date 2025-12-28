@@ -1,0 +1,14 @@
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.GeneratedMSBuildEditorConfig.editorconfig
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.AssemblyInfoInputs.cache
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.AssemblyInfo.cs
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.csproj.CoreCompileInputs.cache
+/home/rilaneko/codebase/c_sharp/Task_1_7/bin/Debug/net10.0/Task_1_7
+/home/rilaneko/codebase/c_sharp/Task_1_7/bin/Debug/net10.0/Task_1_7.deps.json
+/home/rilaneko/codebase/c_sharp/Task_1_7/bin/Debug/net10.0/Task_1_7.runtimeconfig.json
+/home/rilaneko/codebase/c_sharp/Task_1_7/bin/Debug/net10.0/Task_1_7.dll
+/home/rilaneko/codebase/c_sharp/Task_1_7/bin/Debug/net10.0/Task_1_7.pdb
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.dll
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/refint/Task_1_7.dll
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.pdb
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/Task_1_7.genruntimeconfig.cache
+/home/rilaneko/codebase/c_sharp/Task_1_7/obj/Debug/net10.0/ref/Task_1_7.dll

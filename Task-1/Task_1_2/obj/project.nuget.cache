@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3+JDeouE9E=",
+  "success": true,
+  "projectFilePath": "/home/rilaneko/codebase/c_sharp/Task_1_2/Task_1_2.csproj",
+  "expectedPackageFiles": [
+    "/home/rilaneko/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

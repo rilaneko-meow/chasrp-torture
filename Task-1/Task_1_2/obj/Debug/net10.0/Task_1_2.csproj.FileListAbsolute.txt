@@ -1,0 +1,14 @@
+/home/rilaneko/codebase/c_sharp/Task_1_2/bin/Debug/net10.0/Task_1_2
+/home/rilaneko/codebase/c_sharp/Task_1_2/bin/Debug/net10.0/Task_1_2.deps.json
+/home/rilaneko/codebase/c_sharp/Task_1_2/bin/Debug/net10.0/Task_1_2.runtimeconfig.json
+/home/rilaneko/codebase/c_sharp/Task_1_2/bin/Debug/net10.0/Task_1_2.dll
+/home/rilaneko/codebase/c_sharp/Task_1_2/bin/Debug/net10.0/Task_1_2.pdb
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.AssemblyInfoInputs.cache
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.AssemblyInfo.cs
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.csproj.CoreCompileInputs.cache
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.dll
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/refint/Task_1_2.dll
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.pdb
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/Task_1_2.genruntimeconfig.cache
+/home/rilaneko/codebase/c_sharp/Task_1_2/obj/Debug/net10.0/ref/Task_1_2.dll
