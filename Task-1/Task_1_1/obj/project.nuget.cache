@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+Da4GULlP8=",
+  "dgSpecHash": "bLYanVJOXp8=",
   "success": true,
-  "projectFilePath": "/home/rilaneko/codebase/c_sharp/Task_1_1/Task_1_1.csproj",
-  "expectedPackageFiles": [
-    "/home/rilaneko/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\senoy\\code\\chasrp-torture\\Task-1\\Task_1_1\\Task_1_1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

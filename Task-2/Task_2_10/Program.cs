@@ -58,8 +58,8 @@ namespace Task_2_10
                 }
                 case false:
                 {
-                    Console.WriteLine($"x1 = {(-b/2*a)}-{Math.Sqrt(Math.Abs(d))/2*a}i");
-                    Console.WriteLine($"x1 = {(-b/2*a)}+{Math.Sqrt(Math.Abs(d))/2*a}i");
+                    Console.WriteLine($"z1 = {(-b/2*a)}-{Math.Sqrt(Math.Abs(d))/2*a}i");
+                    Console.WriteLine($"z2 = {(-b/2*a)}+{Math.Sqrt(Math.Abs(d))/2*a}i");
                     break;
                 }
             }

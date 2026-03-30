@@ -7,8 +7,7 @@ namespace Task_1_7
         static void Main(string[] args)
         {
             Console.Write("Введите a: ");
-            if (!double.TryParse(Console.ReadLine(), out double a))
-                a = 0;
+            double a = double.TryParse(Console.ReadLine(), out double a_input)) ? a_input : 0;
 
             Console.Write("Введите b: ");
             if (!double.TryParse(Console.ReadLine(), out double b))

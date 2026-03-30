@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/rilaneko/codebase/c_sharp/Task_1_1/Task_1_1.csproj": {}
+    "C:\\Users\\senoy\\code\\chasrp-torture\\Task-1\\Task_1_1\\Task_1_1.csproj": {}
   },
   "projects": {
-    "/home/rilaneko/codebase/c_sharp/Task_1_1/Task_1_1.csproj": {
+    "C:\\Users\\senoy\\code\\chasrp-torture\\Task-1\\Task_1_1\\Task_1_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rilaneko/codebase/c_sharp/Task_1_1/Task_1_1.csproj",
+        "projectUniqueName": "C:\\Users\\senoy\\code\\chasrp-torture\\Task-1\\Task_1_1\\Task_1_1.csproj",
         "projectName": "Task_1_1",
-        "projectPath": "/home/rilaneko/codebase/c_sharp/Task_1_1/Task_1_1.csproj",
-        "packagesPath": "/home/rilaneko/.nuget/packages/",
-        "outputPath": "/home/rilaneko/codebase/c_sharp/Task_1_1/obj/",
+        "projectPath": "C:\\Users\\senoy\\code\\chasrp-torture\\Task-1\\Task_1_1\\Task_1_1.csproj",
+        "packagesPath": "C:\\Users\\senoy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\senoy\\code\\chasrp-torture\\Task-1\\Task_1_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rilaneko/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\senoy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -54,18 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[10.0.0, 10.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

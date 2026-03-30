@@ -16,7 +16,7 @@ namespace Task_2_6
             if (x < -2)
             {
                 f = Math.Abs(x)*Math.Sin(x);
-            }else if (-2<=x && x<0)
+            }else if (x<0)
             {
                 f = Math.Pow(Math.E, 2*x);
             }else if (x == 0)
