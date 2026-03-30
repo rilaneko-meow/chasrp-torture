@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Run 'Task_4_9'",
+            "type": "dotnet",
+            "workingDir": "$PROJECT_DIR$/bin/Debug/net10.0",
+            "allowParallelRun": true,
+            "solutionPath": null,
+            "projectPath": "$PROJECT_DIR$/Task_4_9.csproj",
+            "targetFramework": null,
+            "args": []
+        }
+    ]
+}

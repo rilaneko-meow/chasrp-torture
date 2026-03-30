@@ -1,0 +1,15 @@
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.AssemblyInfoInputs.cache
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.AssemblyInfo.cs
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.csproj.CoreCompileInputs.cache
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.sourcelink.json
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\bin\Debug\net10.0\Task_4_3.exe
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\bin\Debug\net10.0\Task_4_3.deps.json
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\bin\Debug\net10.0\Task_4_3.runtimeconfig.json
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\bin\Debug\net10.0\Task_4_3.dll
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\bin\Debug\net10.0\Task_4_3.pdb
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.dll
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\refint\Task_4_3.dll
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.pdb
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\Task_4_3.genruntimeconfig.cache
+C:\Users\senoy\code\chasrp-torture\Task-4\Task_4_3\obj\Debug\net10.0\ref\Task_4_3.dll
