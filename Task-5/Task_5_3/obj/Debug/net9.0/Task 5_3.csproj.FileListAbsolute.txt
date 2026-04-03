@@ -1,0 +1,14 @@
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\bin\Debug\net9.0\Task 5_3.exe
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\bin\Debug\net9.0\Task 5_3.deps.json
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\bin\Debug\net9.0\Task 5_3.runtimeconfig.json
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\bin\Debug\net9.0\Task 5_3.dll
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\bin\Debug\net9.0\Task 5_3.pdb
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.AssemblyInfoInputs.cache
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.AssemblyInfo.cs
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.csproj.CoreCompileInputs.cache
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.dll
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\refint\Task 5_3.dll
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.pdb
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\Task 5_3.genruntimeconfig.cache
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 5\Task 5_3\obj\Debug\net9.0\ref\Task 5_3.dll

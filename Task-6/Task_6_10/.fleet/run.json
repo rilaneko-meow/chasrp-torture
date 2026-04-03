@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Run 'Task_6_10'",
+            "type": "dotnet",
+            "workingDir": "$PROJECT_DIR$/bin/Debug/net10.0",
+            "allowParallelRun": true,
+            "solutionPath": null,
+            "projectPath": "$PROJECT_DIR$/Task 6_10.csproj",
+            "targetFramework": null,
+            "args": []
+        }
+    ]
+}

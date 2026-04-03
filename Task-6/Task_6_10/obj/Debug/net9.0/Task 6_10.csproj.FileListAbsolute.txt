@@ -1,0 +1,17 @@
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\bin\Debug\net9.0\Task 6_10.exe
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\bin\Debug\net9.0\Task 6_10.deps.json
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\bin\Debug\net9.0\Task 6_10.runtimeconfig.json
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\bin\Debug\net9.0\Task 6_10.dll
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\bin\Debug\net9.0\Task 6_10.pdb
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.AssemblyInfoInputs.cache
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.AssemblyInfo.cs
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.csproj.CoreCompileInputs.cache
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.dll
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\refint\Task 6_10.dll
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.pdb
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\Task 6_10.genruntimeconfig.cache
+D:\Файлы\Институт\Якубович ДА\ПРЗ на ЭВМ\Занятия\Занятие 6\Task 6_10\obj\Debug\net9.0\ref\Task 6_10.dll
+C:\Users\senoy\code\chasrp-torture\Task-6\Task_6_10\obj\Debug\net9.0\Task 6_10.dll
+C:\Users\senoy\code\chasrp-torture\Task-6\Task_6_10\obj\Debug\net9.0\refint\Task 6_10.dll
+C:\Users\senoy\code\chasrp-torture\Task-6\Task_6_10\obj\Debug\net9.0\Task 6_10.pdb
